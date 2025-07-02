@@ -1,0 +1,9 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+
+# Ignorar o banco de dados SQLite, se não quiser que ele seja incluído na imagem
+escola.db
